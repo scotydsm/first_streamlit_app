@@ -3,3 +3,5 @@ snowflake-connector-python
 cffi==1.15.0
 pyarrow==6.0.1
 pip==22.2.2
+charset-normalizer==2.0.12
+snowflake-connector-python==2.7.9
